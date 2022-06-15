@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FileRead" Collapsed="true">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAQAAAAgAAAAAAIACAAAAAAAggAAYCMAA=</HashCode>
+      <FileName>FileRead.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneratePipeline" Collapsed="true">
+    <Position X="1.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBAAAAAAAAhgTIAAARAAAACAAHBAACgEQAgBEAUAAA=</HashCode>
+      <FileName>GeneratePipeline.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RenderTexture" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAiAAAiAMAAAEBAAAEAAAAQA2ACAAACAEgqAAABAAA=</HashCode>
+      <FileName>RenderTexture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Texture" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEABCAAAAgCAAAAAAAAAAACAAAAAAAAIiAAAAAAA=</HashCode>
+      <FileName>Textures.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModelManager" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABACAAACQAAABQAAAQAQAABAAAAAAAhBCAAAAA=</HashCode>
+      <FileName>ModelManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShaderManager" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAQQDQCgIiQCSAAAYMAAAAQAGBAUAABAAwJABAAYA=</HashCode>
+      <FileName>ShaderManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAASAYAAAAYAAAAIQQACQAAsgAAAOAAsAQAgI=</HashCode>
+      <FileName>Camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shaders" Collapsed="true">
+    <Position X="1.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABABEAEAAAAAAAAFSEAAAAAAABAAAABQApBAAAAAA=</HashCode>
+      <FileName>Shaders.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dust" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAWEQgSAsACA0QYBAAQCBCAQAgIGAEAABAgAAAAkBA=</HashCode>
+      <FileName>Dust.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Mesh" Collapsed="true">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACAAAAAAAAAIAAAAAAgAAAAEgAAAQAgAAAAAAA=</HashCode>
+      <FileName>Mesh.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SimpleVertex" Collapsed="true">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAACIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SimpleVertex.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DustVertex" Collapsed="true">
+    <Position X="5.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ParticleStruct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CBLight" Collapsed="true">
+    <Position X="7.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D3DFramework.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CBChangeOnResize" Collapsed="true">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>D3DFramework.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Light" Collapsed="true">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAIACAAAAAAAAAAAIIAIAgAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>D3DFramework.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CBChangesEveryFrame" Collapsed="true">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAAQAAAAAAAAAQAAAAAAgAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>D3DFramework.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
